@@ -1,0 +1,17 @@
+.postit {
+    background: url(/images/postit.png);
+    background-size: contain;
+    height: 232.5px;
+    width: 233.6px;
+    background-repeat: no-repeat;
+
+}
+
+.card {
+    border: none;
+}
+
+.position {
+    margin: auto;
+    width: 233.6px;
+}
